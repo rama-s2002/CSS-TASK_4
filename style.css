@@ -1,0 +1,27 @@
+h4{
+    margin-left: 15px;
+    margin-bottom: 10px;
+}
+.container
+{
+    border: 1px solid black;
+    padding: 10px 10px 0px 5px;
+    display: flex;
+    flex-direction: column;
+    width: 200px;
+    height: 190px;
+}
+
+.id1
+{
+    background-color: gold;
+    color: white;
+    padding: 10px;
+}
+
+.id2, .id3, .id4, .id5
+{
+    background-color: lightblue;
+    color: blue;
+    padding: 10px;
+}
